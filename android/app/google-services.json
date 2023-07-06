@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "338507409018",
+    "project_id": "closecall-391910",
+    "storage_bucket": "closecall-391910.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338507409018:android:0efdc6c89e76bec8a7fdc3",
+        "android_client_info": {
+          "package_name": "com.vitesol.closecall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338507409018-6r93fmsaqn2bemoj73rb903blfsb0saq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASnHgMgNivv18kxxKze-7FkfmYbsLc3ZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338507409018-6r93fmsaqn2bemoj73rb903blfsb0saq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "338507409018-3a30kjmij0fnbm559u8it2qis6m1cp31.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vitesol.closecall"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
